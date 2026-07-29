@@ -34,9 +34,9 @@
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 ![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF6F00?style=for-the-badge)
 
-## 📊 GitHub Stats
+## 📊 Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MArcoAEAandrade&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MArcoAEAandrade&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MArcoAEAandrade&show_icons=true&theme=nord&count_private=true&include_all_commits=true&bg_color=1F2937&border_color=2563EB&icon_color=2563EB" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MArcoAEAandrade&layout=compact&theme=nord&bg_color=1F2937&border_color=2563EB&hide_progress=true" />
 </p>
