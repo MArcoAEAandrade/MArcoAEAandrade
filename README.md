@@ -1,42 +1,70 @@
 <!-- Banner -->
 
 
-## Olá Eu sou o Marco🤚🏿...! ##
+# Olá, eu sou o Marco Andrade! 👋🏿
+
+### 📊 Data & Market Insights Analyst | Customer Analytics | Data Science
+
+Minha atuação é focada na **interseção entre inteligência de mercado, análise preditiva e inteligência de dados**. Combino técnicas avançadas de manipulação e modelagem estatística em ambiente Cloud com metodologias de pesquisa (quantitativas e qualitativas) para transformar dados brutos em decisões estratégicas de produto, experiência e negócios.
+
+ Passagem pelo ecossistema financeiro (**banco BV**) e corporativo (**Rumo**).
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+### 🐍 Linguagens & Modelagem
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & Big Data Infrastructure
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 📊 Business Intelligence & Automação
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 💡 Métodos & Competências
+`Modelagem Preditiva (Regressão Logística)` • `Estatística Aplicada` • `Pesquisa Quantitativa (Surveys)` • `Governança de Dados` • `Customer Insights` • `Scrum/Agile`
+
+---
+
+## 🚀 O que eu entrego / Principais Casos de Uso
+
+- **Estatística & Ciência de Dados:** Construção de modelos preditivos (ex: Regressão Logística) integrando variáveis de comportamento do consumidor com propensão/intenção de compra.
+- **Engenharia de Consultas & Cloud:** Manipulação e consulta de grandes bases de dados no **GCP (BigQuery)** e **Databricks** via SQL para estruturação de datamarts e relatórios.
+- **Governança & Processos:** Otimização de fluxos de governança de dados e metadados, reduzindo o tempo operacional e aprovações de *headfields* para **menos de 15 dias**.
+- **Visualização de Dados:** Construção de dashboards interativos no **Power BI** focados no acompanhamento de jornadas e KPIs de experiência e produto.
+
+---
+
+## 🏆 Destaques & Reconhecimento
+
+- 🥈 **2º Lugar no Programa de Aceleração (banco BV):** Projeto focado no *Onboarding* do cliente, mapeamento de jornada de novos correntistas e proposição de melhorias baseadas em inteligência de dados e centralidade no usuário.
+
+---
+
+## 📌 Projetos em Destaque no GitHub
+
+*(Aqui vale a pena linkar repositórios que você criar)*
+
+| Projeto | Descrição | Tecs Usadas |
+| :--- | :--- | :--- |
+| 📊 **[Análise Preditiva de Intenção de Compra]** | Aplicação de Regressão Logística em pesquisas quantitativas para estimar conversão. | `Python`,  `SQL` |
+| 📈 **[Dashboard de Customer Insights & CMI]** | Painel interativo demonstrando comportamento do usuário e mapeamento de dores. | `Power BI`, `DAX`, `Excel` |
+
+---
+
+## 📬 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/marcoaeandrade" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:marco.andrade.ds@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-## 💻 Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-## 📊 Data & Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-## 🚀 DevOps & Ferramentas
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📈 Metodologias
-
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
-![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF6F00?style=for-the-badge)
-
-## 📊 Minhas Estatísticas do GitHub
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MArcoAEAandrade&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MArcoAEAandrade&layout=compact&theme=buefy" />
-</p>
+---
