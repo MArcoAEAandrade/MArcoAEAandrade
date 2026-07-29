@@ -49,14 +49,10 @@ Minha atuação é focada na **interseção entre inteligência de mercado, aná
 
 ## 📌 Projetos em Destaque no GitHub
 
-*(Aqui vale a pena linkar repositórios que você criar)*
-
 | Projeto | Descrição | Tecs Usadas |
 | :--- | :--- | :--- |
-| 📊 **[Análise Preditiva de Intenção de Compra]** | Aplicação de Regressão Logística em pesquisas quantitativas para estimar conversão. | `Python`,  `SQL` |
-| 📈 **[Dashboard de Customer Insights & CMI]** | Painel interativo demonstrando comportamento do usuário e mapeamento de dores. | `Power BI`, `DAX`, `Excel` |
+| 📊 **[Inclusão Financeira de Jovens Periféricos ](https://github.com/MArcoAEAandrade/ic-inclusao-financeira)** | Explorar dados secundários oficiais (PNADC, Relatórios Financeiros) para contextualizar barreiras de acesso ao sistema financeiro, com foco em juventude periférica. | `Python`, `SQL`, `Excel` |
 
----
 
 ## 📬 Vamos nos conectar?
 
