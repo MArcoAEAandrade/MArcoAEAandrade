@@ -51,7 +51,7 @@ Minha atuação é focada na **interseção entre inteligência de mercado, aná
 
 | Projeto | Descrição | Tecs Usadas |
 | :--- | :--- | :--- |
-| 📊 **[Inclusão Financeira de Jovens Periféricos ](https://github.com/MArcoAEAandrade/ic-inclusao-financeira)** | Explorar dados secundários oficiais (PNADC, Relatórios Financeiros) para contextualizar barreiras de acesso ao sistema financeiro, com foco em juventude periférica. | `Python`, `SQL`, `Excel` |
+| 📊 **[Inclusão Financeira de Jovens Periféricos ](https://github.com/MArcoAEAandrade/ic-inclusao-financeira)**, **[PPT_Programa_IC_2025](https://www.canva.com/design/DAHBxQ9n0uw/eSxy83wfE6jN6M7kYPgdNg/view?utm_content=DAHBxQ9n0uw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb78ed7d22)**| Explorar dados secundários oficiais (PNADC, Relatórios Financeiros) para contextualizar barreiras de acesso ao sistema financeiro, com foco em juventude periférica. | `Python`, `SQL`, `Excel` |
 
 
 ## 📬 Vamos nos conectar?
