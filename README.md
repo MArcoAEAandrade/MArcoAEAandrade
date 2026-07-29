@@ -33,3 +33,10 @@
 
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 ![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF6F00?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MArcoAEAandrade&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MArcoAEAandrade&layout=compact&theme=tokyonight" />
+</p>
