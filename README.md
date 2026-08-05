@@ -22,7 +22,7 @@ Minha atuação é focada na **interseção entre inteligência de mercado, aná
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 📊 Business Intelligence & Automação
+### 📊 Business Intelligence & Automação low code
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -36,7 +36,6 @@ Minha atuação é focada na **interseção entre inteligência de mercado, aná
 
 - **Estatística & Ciência de Dados:** Construção de modelos preditivos (ex: Regressão Logística) integrando variáveis de comportamento do consumidor com propensão/intenção de compra.
 - **Engenharia de Consultas & Cloud:** Manipulação e consulta de grandes bases de dados no **GCP (BigQuery)** e **Databricks** via SQL para estruturação de datamarts e relatórios.
-- **Governança & Processos:** Otimização de fluxos de governança de dados e metadados, reduzindo o tempo operacional e aprovações de *headfields* para **menos de 15 dias**.
 - **Visualização de Dados:** Construção de dashboards interativos no **Power BI** focados no acompanhamento de jornadas e KPIs de experiência e produto.
 
 ---
