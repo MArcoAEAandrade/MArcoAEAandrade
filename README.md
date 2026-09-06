@@ -1,9 +1,22 @@
-<!-- Banner -->
-
+<div align="center">
 
 <img src="./profile-card.svg" width="600">
 
-## Sobre mim
+<br><br>
+
+### Consumer Insights • Analytics • Inteligência de Dados
+
+Transformando **dados de comportamento em insights para decisões de negócio.**
+
+<br><br>
+
+<img src="./mission-card.svg" width="400">
+
+</div>
+
+---
+
+## 👋 Sobre mim
 
 Minha atuação é focada na **interseção entre inteligência de mercado, análise preditiva e inteligência de dados**. Combino técnicas avançadas de manipulação e modelagem estatística em ambiente Cloud com metodologias de pesquisa (quantitativas e qualitativas) para transformar dados brutos em decisões estratégicas de produto, experiência e negócios.
 
