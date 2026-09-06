@@ -1,22 +1,25 @@
 <div align="center">
 
-<!-- Card principal -->
-<img src="./profile-card.svg" width="600">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Card principal -->
+      <img src="./profile-card.svg" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <!-- Missão atual -->
+      <img src="./card.svg" width="100%">
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 ### Consumer Insights • Analytics • Inteligência de Dados
 
 Transformando **dados de comportamento em insights para decisões de negócio.**
 
-<br><br>
-
-<!-- Missão atual -->
-<img src="./card.svg" width="400">
-
 </div>
-
----
 
 
 ## 👋 Sobre mim
