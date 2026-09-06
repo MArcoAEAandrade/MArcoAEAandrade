@@ -27,22 +27,16 @@ Passagem pelo ecossistema financeiro (**banco BV**) e corporativo (**Rumo**).
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
-
-### 🐍 Linguagens & Modelagem
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & Big Data Infrastructure
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 📊 Business Intelligence & Automação low code
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-### 💡 Métodos & Competências
 `Modelagem Preditiva (Regressão Logística)` • `Estatística Aplicada` • `Pesquisa Quantitativa (Surveys)` • `Governança de Dados` • `Customer Insights` • `Scrum/Agile`
 
 ---
@@ -65,10 +59,13 @@ Passagem pelo ecossistema financeiro (**banco BV**) e corporativo (**Rumo**).
 
 ## 📌 Projetos em Destaque no GitHub
 
-| Projeto | Descrição | Tecs Usadas |
-| :--- | :--- | :--- |
-| 📊 **[Inclusão Financeira de Jovens Periféricos ](https://github.com/MArcoAEAandrade/ic-inclusao-financeira)**, **[PPT_Programa_IC_2025](https://www.canva.com/design/DAHBxQ9n0uw/eSxy83wfE6jN6M7kYPgdNg/view?utm_content=DAHBxQ9n0uw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb78ed7d22)**| Explorar dados secundários oficiais (PNADC, Relatórios Financeiros) para contextualizar barreiras de acesso ao sistema financeiro, com foco em juventude periférica. | `Python`, `SQL`, `Excel` |
-| 📊 **[PPT_Diagnóstico Churn](https://canva.link/xifcba6630oaklr)**, **[Dashboard.py](http://localhost:8503/)**| Uma análise da carteira de clientes do banco,  revela: Quem são, como se comportam e por que os clientes decidem deixar o banco. |`Python`, `SQL`, `Cloud` |
+| Projeto                                                                                                       | Descrição                                                                                                                                        | Tecnologias                                    |
+| :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------- |
+| 📊 **[Inclusão Financeira de Jovens Periféricos](https://github.com/MArcoAEAandrade/ic-inclusao-financeira)** | Iniciação científica sobre comportamento financeiro, acesso a serviços e barreiras à inclusão financeira de jovens periféricos.                  | `Python` `SQL` `Excel`                         |
+| 🌎 **[Nubank — Expansão Internacional](https://github.com/MArcoAEAandrade/)**                                 | Análise de mercado para identificar o próximo país prioritário para expansão do Nubank, comparando Peru, Argentina e Chile.                      | `Claude` `Market Analytics` `Consumer Insights` |
+| 📊 **[Diagnóstico de Churn Bancário](https://canva.link/xifcba6630oaklr)**                                    | Análise da carteira para entender quem são os clientes, como se comportam e quais fatores estão associados ao cancelamento.                      | `Python` `SQL` `Power BI`                      |
+| 💳 **[Análise de Transações Bancárias](https://github.com/MArcoAEAandrade/)**                                 | Exploração de mais de 1 milhão de registros para analisar perfil dos clientes, comportamento transacional e distribuição financeira da carteira. | `Python` `SQL` `Databricks` `Power BI`         |
+
 
 ## 📬 Vamos nos conectar?
 
