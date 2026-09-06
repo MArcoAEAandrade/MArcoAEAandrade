@@ -1,7 +1,9 @@
 <!-- Banner -->
 
 
-# Olá, eu sou o Marco Andrade! 👋🏿
+# Olá, eu sou Marco Andrade
+
+<img src="./assets/profile-card.svg" width="600" />
 
 ### 📊 Data & Market Insights Analyst | Customer Analytics | Data Science
 
