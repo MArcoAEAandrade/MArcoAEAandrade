@@ -1,11 +1,15 @@
 <!-- Banner -->
 
 
-# Olá, eu sou Marco Andrade
+# Olá, eu sou Marco Andrade 👋
 
-<img src="./assets/profile-card.svg" width="600" />
+<img src="./assets/profile-card.svg" width="600">
 
-### 📊 Data & Market Insights Analyst | Customer Analytics | Data Science
+## Sobre mim
+
+Minha atuação é focada na **interseção entre inteligência de mercado, análise preditiva e inteligência de dados**. Combino técnicas avançadas de manipulação e modelagem estatística em ambiente Cloud com metodologias de pesquisa (quantitativas e qualitativas) para transformar dados brutos em decisões estratégicas de produto, experiência e negócios.
+
+Passagem pelo ecossistema financeiro (**banco BV**) e corporativo (**Rumo**).
 
 Minha atuação é focada na **interseção entre inteligência de mercado, análise preditiva e inteligência de dados**. Combino técnicas avançadas de manipulação e modelagem estatística em ambiente Cloud com metodologias de pesquisa (quantitativas e qualitativas) para transformar dados brutos em decisões estratégicas de produto, experiência e negócios.
 
