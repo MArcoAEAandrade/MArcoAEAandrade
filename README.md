@@ -15,10 +15,6 @@
 
 <br>
 
-### Consumer Insights • Analytics • Inteligência de Dados
-
-Transformando **dados de comportamento em insights para decisões de negócio.**
-
 </div>
 
 
