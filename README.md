@@ -63,3 +63,22 @@ Minha atuação é focada na **interseção entre inteligência de mercado, aná
 </a>
 
 ---
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*“Transformando dados em insights. Insights em impacto.”*
+
+<br/>
+
+<!-- Snake Animation: Footer -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rodrigues011xbx&color=9745F5&style=flat-square&label=Profile+Views" />
+
+</div>
