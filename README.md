@@ -20,9 +20,9 @@
 
 ## 👋 Sobre mim
 
-Minha atuação é focada na **interseção entre inteligência de mercado, análise preditiva e inteligência de dados**. Combino técnicas avançadas de manipulação e modelagem estatística em ambiente Cloud com metodologias de pesquisa (quantitativas e qualitativas) para transformar dados brutos em decisões estratégicas de produto, experiência e negócios.
+Minha atuação está na interseção entre **inteligência de mercado, Consumer Insights e análise de dados**. Combino manipulação e modelagem estatística, ferramentas de Analytics e ambientes Cloud com metodologias de pesquisa quantitativa e qualitativa para transformar dados em **insights acionáveis e decisões estratégicas** para produtos, clientes e negócios.
 
-Passagem pelo ecossistema financeiro (**banco BV**) e corporativo (**Rumo**).
+Minha experiência passa pelo **setor financeiro, no banco BV**, e pelo **ambiente corporativo, na Rumo**, onde tive contato com diferentes desafios de negócio e públicos. Busco conectar a visão analítica ao contexto do negócio, entendendo não apenas **o que os dados mostram, mas o que eles significam e como podem orientar decisões**.
 
 ---
 
