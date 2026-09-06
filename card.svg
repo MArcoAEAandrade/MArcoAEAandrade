@@ -12,7 +12,7 @@
         font-size="12"
         fill="#E63946"
         font-weight="bold"
-        style="letter-spacing: 2px;">
+        letter-spacing="2">
     MISSÃO ATUAL
   </text>
 
@@ -50,15 +50,7 @@
             stroke-dashoffset="94"
             stroke-linecap="round"
             fill="none"
-            transform="rotate(-90)"
-            transform-origin="0 0">
-
-      <animate
-        attributeName="stroke-dashoffset"
-        values="377;94"
-        dur="2s"
-        fill="freeze"/>
-    </circle>
+            transform="rotate(-90)"/>
 
     <!-- Porcentagem -->
     <text x="0" y="7"
