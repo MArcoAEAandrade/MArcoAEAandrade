@@ -79,6 +79,6 @@ Minha atuação é focada na **interseção entre inteligência de mercado, aná
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rodrigues011xbx&color=9745F5&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Marco011xbx&color=9745F5&style=flat-square&label=Profile+Views" />
 
 </div>
