@@ -49,9 +49,11 @@ Passagem pelo ecossistema financeiro (**banco BV**) e corporativo (**Rumo**).
 
 ## 🚀 O que eu entrego / Principais Casos de Uso
 
-- **Estatística & Ciência de Dados:** Construção de modelos preditivos (ex: Regressão Logística) integrando variáveis de comportamento do consumidor com propensão/intenção de compra.
-- **Engenharia de Consultas & Cloud:** Manipulação e consulta de grandes bases de dados no **GCP (BigQuery)** e **Databricks** via SQL para estruturação de datamarts e relatórios.
-- **Visualização de Dados:** Construção de dashboards interativos no **Power BI** focados no acompanhamento de jornadas e KPIs de experiência e produto.
+- **Analytics & Modelagem:** Construo análises e modelos preditivos para identificar **padrões, propensões e fatores associados a determinados comportamentos**..
+- **Data & Cloud Analytics:** Trabalho com grandes bases utilizando **SQL, BigQuery e Databricks**, estruturando dados para análises, dashboards e tomada de decisão.
+- **Data Visualization:** Transformo análises complexas em **dashboards e narrativas visuais** que facilitam a interpretação dos dados por áreas de negócio.
+- **Consumer Insights**: Transformo dados de comportamento e pesquisas em **insights sobre consumidores, jornadas e oportunidades de negócio**.
+- **Customer & Behavioral Analytic**: Investigo **quem são os clientes, como se comportam e quais fatores explicam suas decisões**, utilizando segmentação, métricas de comportamento e análise estatística.
 
 ---
 
