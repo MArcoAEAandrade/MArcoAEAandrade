@@ -108,4 +108,4 @@
     EM DESENVOLVIMENTO
   </text>
 
-</svg>****
+</svg>
