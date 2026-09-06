@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Card principal -->
 <img src="./profile-card.svg" width="600">
 
 <br><br>
@@ -10,11 +11,13 @@ Transformando **dados de comportamento em insights para decisões de negócio.**
 
 <br><br>
 
-<img src="./mission-card.svg" width="400">
+<!-- Missão atual -->
+<img src="./card.svg" width="400">
 
 </div>
 
 ---
+
 
 ## 👋 Sobre mim
 
